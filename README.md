@@ -21,7 +21,6 @@ Performance data (funds, materials, houses built) is tracked and exported to CSV
 * Central Material Agent with limited inventory.
 * Market system with buying, selling, and trading dynamics.
 * Genetic algorithm with crossover and mutation.
-* Comprehensive performance logging to CSV/Excel.
 
 ---
 
@@ -99,6 +98,4 @@ Performance data (funds, materials, houses built) is tracked and exported to CSV
 
 This project was developed as part of the **AI2 course** in symbolic and evolutionary AI, focusing on **multi-agent systems, planning, and evolutionary computation**.
 
----
 
-Would you like me to also shorten the **Building Requirements & Prices** into a **compact table** (instead of long text + table), so the README looks less like a lab report and more like a professional project summary?
